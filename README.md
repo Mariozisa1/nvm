@@ -1026,7 +1026,6 @@ Here's what you will need to do:
   Unless you have another reason to have that box selected, you can deselect it now.
 
 - Check to make sure the architecture is correct. `x64` is the abbreviation for `x86_64`, which is what you want to see.
-
   ```sh
   $ node -p process.arch
   x64
